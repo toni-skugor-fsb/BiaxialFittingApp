@@ -2,4 +2,5 @@
 
 print('proba')
 
-print('ovo se treba pojaviti u probnom branchu')
+print('ovo se pojavljuje u probnom branchu')
+print('ovo je druga promjena u probnom branchu')
